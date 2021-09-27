@@ -1,0 +1,1 @@
+textattack attack --model-from-file my_model.py --dataset-from-huggingface glue^sst2 --recipe textfooler --num-examples 1000 > /data/cheng/logs/attack_albert_Freelb_1000.log 2>&1
